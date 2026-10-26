@@ -1,1 +1,5 @@
-Change resolved : both branch changes checked
+<<<<<<< HEAD
+Changes resolved : both branch changes checked
+=======
+this is my feature branch file
+>>>>>>> origin/feature1
