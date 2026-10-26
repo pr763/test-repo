@@ -1,1 +1,1 @@
-change from feature branch
+Change resolved : both branch changes checked
