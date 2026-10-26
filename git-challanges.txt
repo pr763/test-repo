@@ -1,0 +1,43 @@
+Resolve Merge Conflicts
+Create a merge conflict intentionally (two users editing the same line).
+Resolve the conflict and push the changes.
+
+Recover Deleted Branch
+Delete a local branch and then recover it using the reflog.
+
+Undo Wrong Push
+Push a wrong commit to GitHub, then undo it without losing history.
+
+Amend a Commit
+Make a commit, then add a missing file to it using git commit --amend.
+
+Cherry-pick a Commit
+Take a specific commit from one branch and apply it to another branch.
+
+Interactive Rebase
+Reorder and squash multiple commits into a single clean commit.
+
+Tagging & Release
+Create a version tag (v1.0), push it to GitHub, then delete and restore it.
+
+Clone with Sparse Checkout
+Clone only a subdirectory of a repo using sparse checkout.
+
+Reset vs Revert Challenge
+Demonstrate the difference between git reset --hard and git revert in a repo.
+
+Detached HEAD Challenge
+Checkout a specific commit (detached HEAD state) and create a new branch from it.
+
+Git Hooks Challenge
+Configure a pre-commit hook to reject commits without a message format (e.g., must start with JIRA-XXX).
+
+Squash Merge vs Rebase Merge
+Show the difference between squash merge and rebase merge with evidence.
+
+Fork & Pull Request Workflow
+Fork a repo, make a change, and submit a pull request to the original repo.
+
+Recover Lost Commit
+Commit something, reset hard, and then recover it using git reflog.
+
